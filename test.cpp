@@ -2,7 +2,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <fstream>
-#include "Cashier.h"
+#include "Class.h"
 using namespace std;
 
 int main()
