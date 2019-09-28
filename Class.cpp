@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include "utility.h"
-#include "Cashier.h"
+#include "Class.h"
 #include "copyright1.h"
 
 using namespace std;
